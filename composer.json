@@ -32,7 +32,7 @@
     }
   },
   "support": {
-    "issues": "https://github.com/hmzlife/flixly-php-sdk/issues",
-    "source": "https://github.com/hmzlife/flixly-php-sdk"
+    "issues": "https://github.com/Softforge-Digital/flixly-php-sdk/issues",
+    "source": "https://github.com/Softforge-Digital/flixly-php-sdk"
   }
 }
